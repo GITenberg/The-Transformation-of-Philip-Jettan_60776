@@ -1,5 +1,5 @@
 _repo: The-Transformation-of-Philip-Jettan_60776
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Leyendecker, J. C. (Joseph Christian)
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '47117'
     url: http://www.gutenberg.org/2009/agents/47117
     wikipedia: https://en.wikipedia.org/wiki/J._C._Leyendecker
+covers:
+- cover_type: archival
+  image_path: 60776-h/images/cover.jpg
 creator:
   author:
     agent_name: Heyer, Georgette
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39614
     wikipedia: https://en.wikipedia.org/wiki/Georgette_Heyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60776#The-Transformation-of-Philip-Jettan
 gutenberg_issued: '2019-11-25'
 gutenberg_type: Text
 identifiers:
