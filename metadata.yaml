@@ -1,0 +1,40 @@
+_repo: The-Transformation-of-Philip-Jettan_60776
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Leyendecker, J. C. (Joseph Christian)
+    aliases:
+    - Leyendecker, Joseph Christian
+    - Leyendecker, J.C.
+    birthdate: 1874
+    deathdate: 1951
+    gutenberg_agent_id: '47117'
+    url: http://www.gutenberg.org/2009/agents/47117
+    wikipedia: https://en.wikipedia.org/wiki/J._C._Leyendecker
+creator:
+  author:
+    agent_name: Heyer, Georgette
+    birthdate: 1902
+    deathdate: 1974
+    gutenberg_agent_id: '39614'
+    url: http://www.gutenberg.org/2009/agents/39614
+    wikipedia: https://en.wikipedia.org/wiki/Georgette_Heyer
+description: ''
+gutenberg_issued: '2019-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Regency fiction'
+- !lcsh 'Love stories'
+- !lcsh 'First loves -- Fiction'
+- !lcc 'PR'
+- !lcsh 'British -- France -- Paris -- Fiction'
+- GITenberg
+title: The Transformation of Philip Jettan
+url: http://www.gutenberg.org/ebooks/60776
